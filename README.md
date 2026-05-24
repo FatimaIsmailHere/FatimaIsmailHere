@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 Data Science and Machine Learning Intern with experience at YBI Foundation and Code Alpha<br>🧠 Strong foundation in Data Analysis, Machine Learning, and Data Visualization<br>🐍 Skilled in Python, SQL, MongoDB, Power BI, Tableau<br>🤖 Worked on projects involving EDA, ML models, Computer Vision, and LLMs<br>🏆 Top 3% student at UMT, recipient of multiple Dean & Rector Awards<br>📜 Certified in Google Analytics, Generative AI, Machine Learning, and Computer Vision<br>🤝 Active hackathon participant and volunteer<br>🚀 Passionate about building data-driven and AI-powered solutions with real-world impact<br>
+📊 Data Science and Machine Learning Intern <br>🧠Foundation in Data Analysis, Machine Learning, and Data Visualization<br>🐍 Skilled in Python, SQL, MongoDB, Power BI, Tableau<br>🤖 Worked on projects involving EDA, ML models, Computer Vision, and LLMs<br>🏆 Student at UMT
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/fatima-ismail-419568352)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ismail1286f@gmail.com) 
